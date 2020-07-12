@@ -1,3 +1,6 @@
+/*****
+This is a short program that uses the pointer this.
+*****/
 #include<iostream>
 #include<iomanip>
 
